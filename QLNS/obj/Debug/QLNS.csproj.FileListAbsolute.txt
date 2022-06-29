@@ -1,0 +1,289 @@
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\BTTTTN\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+E:\BTTTTN\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.exe.config
+H:\265v707\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.exe
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.pdb
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.exe
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.pdb
+H:\265v707\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+H:\265v707\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+G:\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+G:\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+G:\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\CrystalDecisions.VSDesigner.resources.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
