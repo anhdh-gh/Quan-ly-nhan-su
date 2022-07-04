@@ -8,4 +8,4 @@
 - SQL Server
 
 ## Download project, database, báo cáo, slide
-- [Download](https://github.com/anhdh-gh/Quan-ly-nhan-su/releases/tag/1.0)
+- [Download](https://github.com/anhdh-gh/Quan-ly-nhan-su/releases/tag/1.0) f9le Releases.zip
